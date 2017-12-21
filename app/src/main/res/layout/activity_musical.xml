@@ -17,18 +17,21 @@
         android:orientation="horizontal">
 
         <Button
+            android:onClick="play1"
             android:layout_margin="3dp"
             android:background="@drawable/blue_gradient"
             android:id="@+id/play_sound1"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:onClick="play2"
             android:layout_margin="3dp"
             android:background="@drawable/blue_gradient"
             android:id="@+id/play_sound2"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:onClick="play3"
             android:layout_margin="3dp"
             android:background="@drawable/blue_gradient"
             android:id="@+id/play_sound3"
@@ -43,18 +46,21 @@
         android:orientation="horizontal">
 
         <Button
+            android:onClick="play4"
             android:layout_margin="3dp"
             android:background="@drawable/purple_gradient"
             android:id="@+id/play_sound4"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:onClick="play5"
             android:layout_margin="3dp"
             android:background="@drawable/pink_gradient"
             android:id="@+id/play_sound5"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:onClick="play6"
             android:layout_margin="3dp"
             android:background="@drawable/orange_gradient"
             android:id="@+id/play_sound6"
@@ -69,18 +75,21 @@
         android:orientation="horizontal">
 
         <Button
+            android:onClick="play7"
             android:layout_margin="3dp"
             android:background="@drawable/green_gradient"
             android:id="@+id/play_sound7"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:onClick="play8"
             android:layout_margin="3dp"
             android:background="@drawable/green_gradient"
             android:id="@+id/play_sound8"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:onClick="play9"
             android:layout_margin="3dp"
             android:background="@drawable/green_gradient"
             android:id="@+id/play_sound9"
